@@ -18,8 +18,8 @@ export default defineConfig({
         theme_color: '#ffffff',
         background_color: '#f1f5f9', // Match your app's bg-gray-100
         display: 'standalone',
-        scope: '/',
-        start_url: '/',
+        scope: '/kalendar-ispita/',
+        start_url: '/kalendar-ispita/',
         icons: [
           {
             src: 'pwa-192x192.png',
